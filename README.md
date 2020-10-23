@@ -1,0 +1,1 @@
+# Check-Given-Number-Is-Prime-Or-Not-in-java
